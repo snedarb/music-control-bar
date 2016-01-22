@@ -87,14 +87,14 @@ position: absolute;
   font-size: .7rem;
     position: absolute;
     left: 60px;
-    top: 25px;
+    top: 30px;
 }
 
 .time-total {
   font-size: .7rem;
     position: absolute;
     right: 5px;
-    top: 25px;
+    top: 30px;
 }
 
 .controls {
