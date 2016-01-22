@@ -44,18 +44,17 @@ body {
 
 .album {
     position: absolute;
-    left: 0;
-    top: 0;
-    width: 58px;
-
+        left: 0;
+        top: 0;
+        width: 58px;
 }
 
 .time-bar {
 position: absolute;
-    width: 100%;
-    left: 58px;
-    top: 50px;
-  height: 8px;
+        width: 100%;
+        left: 58px;
+        top: 50px;
+        height: 8px;
   margin: 0;
   padding: 0;
   -webkit-appearance: none;
