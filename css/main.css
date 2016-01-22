@@ -85,6 +85,9 @@ position: absolute;
 
 .time-lapsed {
   font-size: .7rem;
+    position: absolute;
+    left: 60px;
+    top: 25px;
 }
 
 .time-total {
@@ -104,6 +107,9 @@ position: absolute;
 }
 
 .control-shuffle {
+    position: absolute;
+    left: 65px;
+    top: 5px;
 
 }
 
@@ -111,14 +117,10 @@ position: absolute;
     position:absolute;
     right: 5px;
     top: 5px;
-
 }
 
 .control-heart {
     position: absolute;
     top: 5px;
     right: 25px;
-    
-    
-
 }
