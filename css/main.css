@@ -43,14 +43,14 @@ body {
 }
 
 .album {
-    position: absolute;
+        position: absolute;
         left: 0;
         top: 0;
         width: 58px;
 }
 
 .time-bar {
-position: absolute;
+    position: absolute;
         width: 100%;
         left: 58px;
         top: 50px;
