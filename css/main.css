@@ -51,7 +51,6 @@ body {
 }
 
 .time {
-
 }
 
 .time-bar {
@@ -86,7 +85,7 @@ position: absolute;
 .time-lapsed {
   font-size: .7rem;
     position: absolute;
-    left: 60px;
+    left: 65px;
     top: 30px;
 }
 
