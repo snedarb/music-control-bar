@@ -81,6 +81,9 @@ body {
 
 .time-total {
   font-size: .7rem;
+    position: absolute;
+    right: 5px;
+    top: 25px;
 }
 
 .controls {
@@ -98,8 +101,8 @@ body {
 
 .control-list {
     position:absolute;
-    right: 0;
-    top: 0;
+    right: 5px;
+    top: 5px;
 
 }
 
